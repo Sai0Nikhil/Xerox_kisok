@@ -1,0 +1,9 @@
+# software/.gitignore
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.db-journal
+/tmp/
+.DS_Store
